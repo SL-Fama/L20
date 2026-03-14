@@ -1,0 +1,7 @@
+smath_autogen/timestamp: \
+	/Users/s.liudvichenko/Library/Mobile\ Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/static/CMakeLists.txt \
+	/Users/s.liudvichenko/Library/Mobile\ Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/static/add.cpp \
+	/Users/s.liudvichenko/Library/Mobile\ Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/static/divide.cpp \
+	/Users/s.liudvichenko/Library/Mobile\ Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/static/mult.cpp \
+	/Users/s.liudvichenko/Library/Mobile\ Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/static/sub.cpp \
+	/opt/homebrew/Cellar/cmake/4.2.1/bin/cmake

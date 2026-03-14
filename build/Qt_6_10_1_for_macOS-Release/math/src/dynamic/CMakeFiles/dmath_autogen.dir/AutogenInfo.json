@@ -1,0 +1,85 @@
+{
+	"BUILD_DIR" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/dynamic",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/Cellar/cmake/4.2.1/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/dynamic/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "dmath_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "dmath_EXPORTS" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/include",
+		"/usr/local/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/opt/homebrew/opt/ccache/libexec/g++",
+		"-w",
+		"-dM",
+		"-E",
+		"/opt/homebrew/Cellar/cmake/4.2.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/CMakeFiles/dmath_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/s.liudvichenko/Qt/6.10.1/macos/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/s.liudvichenko/Qt/6.10.1/macos/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 10,
+	"SETTINGS_FILE" : "/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/CMakeFiles/dmath_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/dynamic/factorial.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/math/src/dynamic/logarithm.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

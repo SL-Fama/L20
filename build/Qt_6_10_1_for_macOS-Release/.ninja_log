@@ -1,0 +1,57 @@
+# ninja log v6
+452	1748	1773471764621550687	CMakeFiles/L20.dir/main.cpp.o	b1960d9b1ef4d218
+73	89	1773398275518459076	math/src/static/CMakeFiles/smath.dir/sub.cpp.o	88412ed200a1f938
+553	1679	1773472892619768584	CMakeFiles/L20.dir/calc.cpp.o	933b3381485f2ab9
+1679	1793	1773472893745459678	L20.app/Contents/MacOS/L20	62d025b6228d94b1
+6	45	1773472797840628918	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+6	31	1773472892072736436	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen/mocs_compilation.cpp	fd3e5394030d58cb
+6	45	1773472797840628918	L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+2	72	1773398275506935591	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/static/smath_autogen/timestamp	2643fe8399918f29
+502	553	1773472892568637373	math/src/dynamic/dmathdmath.dylib	9907f328d28ee510
+31	502	1773472892097208503	math/src/dynamic/CMakeFiles/dmath.dir/factorial.cpp.o	d31a988e8ce919c9
+6	45	1773472797840628918	L20_autogen/timestamp	331b0db5d8688fed
+73	89	1773398275517941952	math/src/static/CMakeFiles/smath.dir/divide.cpp.o	cff5bcb16f110970
+72	88	1773398275516573079	math/src/dynamic/CMakeFiles/dmath.dir/dmath_autogen/mocs_compilation.cpp.o	1ad246f662ba5cb3
+73	89	1773398275518188368	math/src/static/CMakeFiles/smath.dir/mult.cpp.o	584e47a29387cc8b
+89	129	1773398275534191223	math/src/static/libsmath.easymath	9d4999bcca910a9
+73	89	1773398275517636036	math/src/static/CMakeFiles/smath.dir/add.cpp.o	fe2d10f8e6602af8
+2	72	1773398275506935591	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/static/smath_autogen/mocs_compilation.cpp	2643fe8399918f29
+72	89	1773398275517395744	math/src/static/CMakeFiles/smath.dir/smath_autogen/mocs_compilation.cpp.o	b1d1ef2e3c92f849
+2	72	1773398275506935591	math/src/static/smath_autogen/timestamp	2643fe8399918f29
+2	72	1773398275506935591	math/src/static/smath_autogen/mocs_compilation.cpp	2643fe8399918f29
+451	2543	1773471764621298898	CMakeFiles/L20.dir/L20_autogen/mocs_compilation.cpp.o	abf9781a81ee654
+6	45	1773472797840628918	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/timestamp	331b0db5d8688fed
+31	147	1773472892097414419	math/src/dynamic/CMakeFiles/dmath.dir/logarithm.cpp.o	b3beefd919fc60e1
+6	31	1773472892072736436	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmath_autogen/timestamp	fd3e5394030d58cb
+6	31	1773472892072736436	math/src/dynamic/dmath_autogen/mocs_compilation.cpp	fd3e5394030d58cb
+6	31	1773472892072736436	math/src/dynamic/dmath_autogen/timestamp	fd3e5394030d58cb
+7	46	1773473150541494787	L20_autogen/timestamp	331b0db5d8688fed
+7	46	1773473150541494787	L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+7	46	1773473150541494787	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/timestamp	331b0db5d8688fed
+7	46	1773473150541494787	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+46	1266	1773473150580844318	CMakeFiles/L20.dir/calc.cpp.o	933b3381485f2ab9
+1266	1394	1773473151800967601	L20.app/Contents/MacOS/L20	62d025b6228d94b1
+8	43	1773473409694033863	L20_autogen/timestamp	331b0db5d8688fed
+8	43	1773473409694033863	L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+8	43	1773473409694033863	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/timestamp	331b0db5d8688fed
+8	43	1773473409694033863	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+44	1225	1773473409729935944	CMakeFiles/L20.dir/calc.cpp.o	933b3381485f2ab9
+1225	1342	1773473410910758946	L20.app/Contents/MacOS/L20	62d025b6228d94b1
+8	45	1773473583003060257	L20_autogen/timestamp	331b0db5d8688fed
+8	45	1773473583003060257	L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+8	45	1773473583003060257	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/timestamp	331b0db5d8688fed
+8	45	1773473583003060257	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+46	1264	1773473583040474168	CMakeFiles/L20.dir/calc.cpp.o	933b3381485f2ab9
+1264	1402	1773473584258890955	L20.app/Contents/MacOS/L20	62d025b6228d94b1
+7	43	1773473663298936148	L20_autogen/timestamp	331b0db5d8688fed
+7	43	1773473663298936148	L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+7	43	1773473663298936148	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/timestamp	331b0db5d8688fed
+7	43	1773473663298936148	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+44	1323	1773473663335472385	CMakeFiles/L20.dir/calc.cpp.o	933b3381485f2ab9
+1323	1454	1773473664614430032	L20.app/Contents/MacOS/L20	62d025b6228d94b1
+7	41	1773473804009894528	L20_autogen/timestamp	331b0db5d8688fed
+7	41	1773473804009894528	L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+7	41	1773473804009894528	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/timestamp	331b0db5d8688fed
+7	41	1773473804009894528	/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20_autogen/mocs_compilation.cpp	331b0db5d8688fed
+41	1298	1773473804043791053	CMakeFiles/L20.dir/calc.cpp.o	933b3381485f2ab9
+1298	1430	1773473805300820473	L20.app/Contents/MacOS/L20	62d025b6228d94b1

@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_dmath_FILE /Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/dmathdmath.dylib)
+set(__QT_DEPLOY_TARGET_dmath_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_smath_FILE /Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/static/libsmath.easymath)
+set(__QT_DEPLOY_TARGET_smath_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_L20_FILE /Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/L20.app/Contents/MacOS/L20)
+set(__QT_DEPLOY_TARGET_L20_TYPE EXECUTABLE)

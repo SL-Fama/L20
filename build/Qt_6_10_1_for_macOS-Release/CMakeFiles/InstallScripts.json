@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/cmake_install.cmake",
+		"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/dynamic/cmake_install.cmake",
+		"/Users/s.liudvichenko/Library/Mobile Documents/com~apple~CloudDocs/Lessons/Pro/L20/build/Qt_6_10_1_for_macOS-Release/math/src/static/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
